@@ -55,7 +55,7 @@ format:
           &lt;William&gt; Personal Website
         </div>
 
-site-url: "https://wmmabe.github.io/Website-Workshop/angle bracket"
+site-url: "https://wmmabe.github.io/Website-Workshop/"
 repo-url: "https://github.com/wmmabe/Website-Workshop"
 repo-actions: [edit, issue]
 
